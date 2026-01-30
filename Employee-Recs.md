@@ -1,4 +1,4 @@
- # Employee-Recs
+ # Employee Records Screen
 
 ## Overview
 
