@@ -80,13 +80,14 @@ The following action buttons are available for the selected employee or partner:
 
 4. Transfer
   * Allows the admin to transfer the employee to a different Site or Group.
+    
      <img width="407" height="228" alt="image" src="https://github.com/user-attachments/assets/7567f4dd-f8c4-4539-860c-dffffbb5a068" />
 
 5. Trainer Rights
   * Admins can assign or remove trainer-related permissions: 
     * Override OK
     * Blue Card Holder
-      <img width="571" height="143" alt="image" src="https://github.com/user-attachments/assets/90139501-e754-4f9e-86c0-c468298e0b07" />
+     <img width="571" height="143" alt="image" src="https://github.com/user-attachments/assets/90139501-e754-4f9e-86c0-c468298e0b07" />
 
 6. Change Image
   * Allows updating the employee or partner profile image.
