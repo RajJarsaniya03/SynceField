@@ -70,5 +70,128 @@ The following main menu options are available in the SyncField Desktop Applicati
   
 Each module is explained in detail below.
 
-### Home Page
+## Home Page
 
+**Notifications Section**
+* All important notifications are displayed on this page in a tabular format.
+* Notification types available on the left panel include:
+
+**a. Campaigns Notification**
+
+* Displays campaign-related alerts.
+* Clicking on this notification navigates the user to the `Campaigns` page.
+
+**b. Classes**
+
+* Opens a pop-up window titled: `Class: Sync Annual Refresher Training`.
+* Displays class-related participant details.
+
+**c. Training Tracker**
+
+* Clicking on this notification type navigates the user to the `Training Tracker` page.
+
+
+**d. Content Reviews (SOPs)**
+
+* Clicking this notification type takes the user to the `Content Reviews` page.
+
+**e. Task Codes**
+
+* Clicking this notification type takes the user to the `Content Reviews` page.
+
+## Employee Module
+
+When the user selects Employee from the main menu, the system opens the `Employee Training Records` page.
+
+**Features**
+
+* Displays completed training records for employees.
+* Various filters are available to easily locate employee information.
+
+  *  Users can view:
+      * Employee details
+      * Training history
+      * Certification status
+
+All employee-related updates received through sync are reflected in this module.
+
+## Task Codes Module
+
+The Task Codes module displays all task code-related information.
+
+**Key Features**
+
+* Users can search and filter task codes.
+* For a selected task code, the following details are available:
+   * Assignments
+   * PreRequisites (PreReqs)
+   * Skills
+   * Checklist
+   * Pre-Operational (PreOp) information
+
+**Certified Workers List**
+   * Shows employees certified under the selected task code.
+
+**Equipment Details**
+   * Displays equipment records associated with the selected task code.
+
+## Campaigns Module
+
+The Campaigns page manages all campaign-related activities.
+
+**Displayed Information**
+
+* Campaign List
+* Selected Campaign Details
+* Participants of the selected campaign
+* Required content reviews
+* Signature panel
+
+**Filters Available**
+
+* My Employees
+* All Employees
+  
+**Signature Process**
+
+* Users can sign for participants.
+* After submitting a signature, the participant status changes from: Pending → Completed
+
+## Annual Recert Module
+
+The Annual Recert page is directly related to campaigns.
+
+Purpose
+
+* Used for managing annual recertification processes.
+* Displays recertification campaigns and employee participation.
+* Allows administrators to manage annual certification workflows.
+
+## Training Module
+
+The Training page displays all scheduled training activities.
+
+**Features**
+
+* View scheduled training list
+* Start selected scheduled training
+* Create new training (similar to web application functionality)
+
+This module helps trainers and administrators manage training execution directly from the desktop application.
+
+
+## Content Review Module
+
+The Content Review page allows users to manage SOP and document reviews
+
+**Features**
+
+* Displays list of all available content
+* Employee-wise certification creation
+* Signature functionality for content acknowledgment
+
+This module ensures that required documents and procedures are properly reviewed and acknowledged by employees.
+
+## Conclusion
+
+The SyncField Desktop Application provides a powerful and flexible platform for managing employee training, certifications, campaigns, and compliance activities. With robust synchronization capabilities and offline support, it ensures uninterrupted workflow and accurate data management across both desktop and web environments.
